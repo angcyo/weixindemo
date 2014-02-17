@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">我的微信 </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">我的微信</string>
+    <string name="txt_login_failed">登录错误</string><string name="txt_dialog_alert_message">微信帐号或者密码不能为空，
+请输入后再登录！</string>
+    <string name="txt_login_error">登录失败</string><string name="txt_count_not_exist">微信帐号或者密码不正确，
+请检查后重新输入！</string>
+    <string name="txt_clilc_close_window">提示：点击窗口外部关闭窗口！</string>
+    <string name="click_close_windows">提示：点击窗口外部关闭窗口！</string>
+    <string name="txt_login_success">登陆成功。</string>
+    <string name="login_txt">登录</string>
+    <string name="register_txt">注册</string>
+    <string name="intent_txt">【点击跳转到主界面】\n如果你没有QQ号，请注册</string>
+    <string name="txt_info">使用QQ号或者微信号登录</string>
+
+</resources>
